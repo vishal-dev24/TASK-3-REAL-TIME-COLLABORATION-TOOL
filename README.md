@@ -1,7 +1,5 @@
 # TASK-3-REAL-TIME-COLLABORATION-TOOL
 
-**Task-3: REAL-TIME COLLABORATION TOOL**
-
 
 **COMPANY:** CODTECH IT SOLUTIONS  
 
@@ -212,4 +210,10 @@ This real-time collaboration tool can be applied in various scenarios, such as:
 
 This Real-Time Collaboration Tool is a robust and scalable project leveraging React.js, Node.js, Express.js, and WebSockets to facilitate synchronized multi-user document editing. It demonstrates efficient real-time communication using WebSockets and serves as an excellent foundation for collaborative applications. Future enhancements can further extend its usability and functionality.
 
+
+
+
+![Image](https://github.com/user-attachments/assets/220d37e7-8fad-4a3d-8b94-542a57bfd8fb)
+
+![Image](https://github.com/user-attachments/assets/e7cc24e7-0e3c-44c1-ac75-6e81c0c8efbc)
 
